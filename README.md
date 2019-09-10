@@ -1,6 +1,6 @@
 # docstrings2pdf
 
-AVL Tree based Docstrings parsing and converting to beautiful pdf.
+Utility for AVL Tree based parsing of Docstrings and converting it to beautiful pdf.
 ### Usage
 ```sh
 $ python doc2pdf.py <*.py file without .py>
